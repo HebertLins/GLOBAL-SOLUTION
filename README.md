@@ -4,11 +4,11 @@
 
 *Hebert Cuba Lins*    - Enterprise Application Development / Digital Business Enablement
 
-Henrique Abduch     - Hybrid Mobile Application Development
+*Henrique Abduch*     - Hybrid Mobile Application Development
 
-Iago Rosa Dias      - Database Application e Data Science / Disruptive Architectures IT, IoB e IA / DevOps Tools e Cloud Computing
+*Iago Rosa Dias*      - Database Application e Data Science / Disruptive Architectures IT, IoB e IA / DevOps Tools e Cloud Computing
 
-Vinicius Cruzeiro   - Compliance e Quality Assurance / Disruptive Architectures IT, IoB e IA / DevOps Tools e Cloud Computing
+*Vinicius Cruzeiro*   - Compliance e Quality Assurance / Disruptive Architectures IT, IoB e IA / DevOps Tools e Cloud Computing
 
 
 # PROBLEMA QUE A SOLUÇÃO
