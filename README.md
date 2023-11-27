@@ -2,7 +2,7 @@
 
 ![image](https://github.com/HebertLins/Sprint-1-JAVA/assets/111543334/cfad3699-e26c-4688-ba36-528b5e970c8a)
 
-Hebert Cuba Lins    - Enterprise Application Development / Digital Business Enablement
+*Hebert Cuba Lins*    - Enterprise Application Development / Digital Business Enablement
 
 Henrique Abduch     - Hybrid Mobile Application Development
 
