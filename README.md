@@ -22,16 +22,33 @@ Nosso aplicativo também contará com uma interface para as instituições médi
 
 # O QUE FICARÁ FORA DO ESCOPO
 
+Como o nosso objetivo é a melhoria geral da saúde, focamos em fazer a conscientização desta para prevenção de doenças e epidemias, como a Covid-19. Dito isso acabamos não incluindo metas que englobam situações aonde só a prevenção não seria suficiente, como as metas 3.1 e 3.2.
+
 # LISTA DE TECONOLOGIAS UTILIZADAS E SUAS VERSÕES
 
+1.	Oracle Data Modeler e Oracle SQL Developer
+   
+3.	Java Springboot
+   
+5.	Microsoft Azure
+   
+7.	Roboflow
+   
+9.	React Native
 
 
 # DIAGRAMAS
 
+![image](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/55aeea84-3826-4423-baf4-67ee17147d36)
 
+![image](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/cb250a41-65a8-42a4-bc45-800f212fb478)
+
+![image](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/9d67b2b9-1c8f-4408-bbe5-3d13a7d91bd3)
 
 
 # PITCH
+
+https://youtu.be/aygnQD5AfmU?si=0Fo-lyPRJzbZ9qWp
 
 # EXPLICATIVO DE EXECUÇÃO
 
