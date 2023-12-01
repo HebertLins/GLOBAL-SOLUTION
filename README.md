@@ -52,5 +52,6 @@ https://youtu.be/aygnQD5AfmU?si=0Fo-lyPRJzbZ9qWp
 
 # EXPLICATIVO DE EXECUÇÃO
 
-# SCRIPT POSTMAN
+# SCRIPT INSOMNIA
+
 
