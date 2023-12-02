@@ -36,7 +36,7 @@ Como o nosso objetivo é a melhoria geral da saúde, focamos em fazer a conscien
    
 5.	React Native
 
-6.	Virtualização de máquina
+6.	Virtualização de máquina - Oracle VM
 
 
 # DIAGRAMAS
