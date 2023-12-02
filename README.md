@@ -28,13 +28,15 @@ Como o nosso objetivo é a melhoria geral da saúde, focamos em fazer a conscien
 
 1.	Oracle Data Modeler e Oracle SQL Developer
    
-3.	Java Springboot
+2.	Java Springboot
    
-5.	Microsoft Azure
+3.	Microsoft Azure
    
-7.	Roboflow
+4.	Roboflow
    
-9.	React Native
+5.	React Native
+
+6.	Virtualização de máquina
 
 
 # DIAGRAMAS
@@ -58,6 +60,8 @@ Como o nosso objetivo é a melhoria geral da saúde, focamos em fazer a conscien
 https://youtu.be/aygnQD5AfmU?si=0Fo-lyPRJzbZ9qWp
 
 # EXPLICATIVO DE EXECUÇÃO
+
+https://youtu.be/27vuRCZzqHc
 
 # SCRIPT INSOMNIA
 
