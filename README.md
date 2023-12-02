@@ -47,6 +47,11 @@ Como o nosso objetivo é a melhoria geral da saúde, focamos em fazer a conscien
 
 ![Diagrama Classes](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/95bf37cc-1f1a-458d-add9-15632d184c59)
 
+![1](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/c50eabc9-d3c9-497d-a7e3-9f14fd30a073)
+
+![2](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/c051ea83-799f-4ef6-925d-1842f9f05451)
+
+![3](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/d63a1724-9d2a-46f4-b01c-d627d4e8c07c)
 
 # PITCH
 
