@@ -11,7 +11,7 @@
 *Vinicius Cruzeiro*   - Compliance e Quality Assurance / Disruptive Architectures IT, IoB e IA / DevOps Tools e Cloud Computing
 
 
-# PROBLEMA QUE A SOLUÇÃO
+# PROBLEMA QUE A SOLUÇÃO SE PROPÕE A SOLUCIONAR
 
 Nossa aplicação tem em vista como objetivo melhorar a comunicação entre paciente e instituição médica. Mas não só isso, buscamos evitar o contágio de epidemias (Covid-19, por exemplo) ou até mesmo doenças sexuais, ter um maior controle dos fluxos de paciente, dessa forma agilizando o atendimento e economizando tempo em diversas etapas da experiência do paciente. Nossos usuários terão fácil acesso aos seus diagnósticos e prescrições realizadas por profissinais da saúde, evitando que informações sejam perdidas de alguma forma. Esse fácil acesso irá possibilitar que os médicos tenham acesso as informações de seus pacientes de forma mais ágil durante situações de emergência.
 
