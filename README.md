@@ -45,6 +45,8 @@ Como o nosso objetivo é a melhoria geral da saúde, focamos em fazer a conscien
 
 ![image](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/9d67b2b9-1c8f-4408-bbe5-3d13a7d91bd3)
 
+![Diagrama Classes](https://github.com/HebertLins/GLOBAL-SOLUTION---ENTERPRISE-APPLICATION-DEVELOPMENT/assets/111543334/95bf37cc-1f1a-458d-add9-15632d184c59)
+
 
 # PITCH
 
