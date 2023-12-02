@@ -56,4 +56,4 @@ https://youtu.be/aygnQD5AfmU?si=0Fo-lyPRJzbZ9qWp
 
 # SCRIPT INSOMNIA
 
-
+É possível encontrar dentro do projeto na pasta "documentacao"
