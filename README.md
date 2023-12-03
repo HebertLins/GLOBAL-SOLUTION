@@ -63,6 +63,8 @@ https://youtu.be/aygnQD5AfmU?si=0Fo-lyPRJzbZ9qWp
 
 https://youtu.be/27vuRCZzqHc
 
+Basicamente consiste em subir a aplicação e posteriormente realizar as requisições conforme o script do Insomnia.
+
 # SCRIPT INSOMNIA
 
-É possível encontrar dentro do projeto na pasta "documentacao"
+É possível encontrar dentro do projeto na pasta "documentacao".
