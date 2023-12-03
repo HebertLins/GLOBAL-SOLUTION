@@ -1,5 +1,6 @@
 package br.com.fiap.global.model.Usuario;
 
+import java.io.Serializable;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
@@ -15,7 +16,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Table(name = "TB_USUARIO")
 @Inheritance(strategy = InheritanceType.JOINED)
-public class Usuario {
+public class Usuario implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "SQ_USUARIO")

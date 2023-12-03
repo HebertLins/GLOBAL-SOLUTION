@@ -7,6 +7,6 @@ public class SexoPacienteValidator implements ConstraintValidator <SexoPaciente,
 
     @Override
     public boolean isValid(String value, ConstraintValidatorContext context) {
-        return value.equals("MASCULINO") || value.equals("FEMININO");
+        return value != null && (value.equals("MASCULINO") || value.equals("FEMININO"));
     }
 }

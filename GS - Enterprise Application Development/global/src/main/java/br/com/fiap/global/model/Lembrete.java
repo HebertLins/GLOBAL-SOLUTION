@@ -29,7 +29,7 @@ public class Lembrete {
     @Column(name = "CONTEUDO_LEMBRETE")
     private String conteudo_lembrete;
 
-    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE})
     @JoinColumn(
             name = "PACIENTE",
             referencedColumnName = "ID_USUARIO",

@@ -49,7 +49,6 @@ public class ComprovanteController {
         getComprovanteById(id);
         Comprovante.setId_comprovante(id);
         repository.save(Comprovante);
-
         return ResponseEntity.ok(Comprovante);
     }
 

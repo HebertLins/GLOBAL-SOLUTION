@@ -36,7 +36,7 @@ public class Exame {
     @Column(name = "DESCRICAO_EXAME")
     private String descricao_exame;
 
-    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE})
     @JoinColumn(
             name = "PACIENTE",
             referencedColumnName = "ID_USUARIO",

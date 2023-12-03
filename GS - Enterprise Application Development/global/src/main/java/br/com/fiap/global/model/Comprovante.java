@@ -35,7 +35,7 @@ public class Comprovante {
     @Column(name = "NOME_FABRICANTE")
     private String nome_fabricante;
 
-    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.PERSIST, CascadeType.MERGE})
+    @ManyToOne(fetch = FetchType.EAGER, cascade = {CascadeType.MERGE})
     @JoinColumn(
             name = "PACIENTE",
             referencedColumnName = "ID_USUARIO",
